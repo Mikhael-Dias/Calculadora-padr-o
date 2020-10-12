@@ -1,0 +1,8 @@
+print('Seja bem vindo a minha calculadora de multiplicação!')
+
+valor1 = float(input('Insira o seu primeiro numero: '))
+valor2 = float(input('Insira o seu segundo numero: '))
+
+multiplicacao = valor1 * valor2 
+
+print('O resultado da multiplicação entre', valor1, 'e', valor2, 'é de', multiplicacao)
